@@ -1,0 +1,1 @@
+50 15 * * * /Users/aoli/code/spider-m-sohu/cronjob.sh > /Users/aoli/code/spider.log
