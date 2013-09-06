@@ -10,7 +10,7 @@ spider-m-sohu
 
 	`pip install scrapy`
 
-Debian环境下，如果遇到“error: command ‘gcc’ failed with exit status 1”错误，可以先执行apt-get install python-dev libxml2-dev libxslt-dev -y 后再pip install scrappy.
+Debian环境下，如果遇到“error: command ‘gcc’ failed with exit status 1”错误，可以先执行apt-get install python-dev libxml2-dev libxslt-dev -y 后再pip install scrapy.
 
 - 然后，到官网下载redis，解压安装，略。
 
