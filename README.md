@@ -33,4 +33,4 @@ spider-m-sohu
 
    可以在根目录看到log文件，里面就是每次运行抓到的死链啦。另外lulu/spiders中附了一个我之前运行的log文件。
 
-若要定时执行可以参照cronjob.sh以及crontab文件。
+   若要定时执行可以参照cronjob.sh以及crontab文件。
